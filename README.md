@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | Building Reliable Web Products
 
-<a href="https://paablobs.github.io/web-portfolio/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@9.0.0/icons/linktree.svg"></a>
+[My Portfolio](https://paablobs.github.io/web-portfolio/)
 
 ### 🚀 About Me
 
