@@ -44,7 +44,7 @@ I'm a passionate Full Stack Developer based in Argentina with over 5 years of ex
 
 ### Featured Projects
 
-#### [Nout](https://github.com/paablobs/nout)
+#### [Nout](https://nout.it)
 Offline-first note-taking app with rich text editing, folder organization, favorites, trash recovery, and optional Firebase sync.
 - **Tech**: React, TypeScript, Firebase
 - **Features**: Rich text editing, folder organization, offline-first architecture
