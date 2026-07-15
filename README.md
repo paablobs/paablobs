@@ -42,13 +42,6 @@ I'm a passionate Full Stack Developer based in Argentina with over 5 years of ex
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paablobs&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paablobs&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ### 🏆 Featured Projects
 
 #### 📝 [Nout](https://github.com/paablobs/nout)
@@ -79,32 +72,9 @@ A competitive Tetris variant with sabotage mechanics — send garbage lines to o
 - Scaleway integration with Openbravo for server management from ERP
 - Frontend development for Openbravo WebPOS (E-Commerce)
 
-### 🎓 Education
-
-**Computer Science** @ Universidad Nacional de Rio Cuarto (2017 - Present)
-
 ### 📈 Current Focus
 
 - 🔍 Improving AI integration in daily development workflows
 - 🏗️ Building scalable frontend architectures with microfrontends
 - 🚀 Exploring new technologies and frontend architecture patterns
 - 📚 Constantly learning to bring better solutions to the table
-
-### 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pablobessone/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pablo.bessone@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/paablobs">paablobs</a></i>
-</p>
