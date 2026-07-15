@@ -2,9 +2,9 @@
 
 ## Full Stack Developer | Building Reliable Web Products
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablobessone/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://paablobs.github.io/web-portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pablo.bessone@outlook.com)
+<a href="https://www.linkedin.com/in/pablobessone/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://paablobs.github.io/web-portfolio/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@9.0.0/icons/linktree.svg"></a>
+<a href="mailto:pablo.bessone@outlook.com" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@9.0.0/icons/gmail.svg"></a>
 
 ### 🚀 About Me
 
