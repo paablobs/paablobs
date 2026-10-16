@@ -1,80 +1,84 @@
-# Hi there, I'm Pablo Bessone
+# Pablo Bessone
 
-## Full Stack Developer | Building Reliable Web Products
+## Full Stack Developer · React, TypeScript, Node.js & NestJS
 
-[My Portfolio](https://paablobs.github.io/web-portfolio/)
+**Frontend-focused, comfortable working across APIs, databases and integrations.** Based in Argentina (UTC−3), building web applications professionally since 2020.
 
-### About Me
+[Portfolio & case studies](https://paablobs.github.io/web-portfolio/en/) · [Portfolio en español](https://paablobs.github.io/web-portfolio/es/) · [LinkedIn](https://www.linkedin.com/in/pablobessone/) · [Email](mailto:pablo.bessone@outlook.com)
 
-I'm a passionate Full Stack Developer based in Argentina with over 5 years of experience building reliable, efficient web applications. I specialize in turning ideas into production-ready products with clean, maintainable code.
+I'm open to **full stack, frontend and backend roles**. My experience combines AngularJS modernization, React/TypeScript microfrontends and shared components with NestJS services, REST APIs, SQL and ERP integrations.
 
-- Currently working at **We Are Psh** as a Full Stack Developer
-- Focused on improving AI integration in development workflows
-- Looking to collaborate on innovative web applications
-- Ask me about React, TypeScript, Node.js, and Microfrontends
-- Located in Argentina
+## Professional experience
 
-### Tech Stack
+### Full Stack Developer · We Are Psh
+September 2021 — Present
 
-#### Frontend
-<a href="https://reactjs.org/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
-<a href="https://redux.js.org/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
+- Redesign application screens and migrate AngularJS functionality to React and Redux, collaborating with UI/UX on Figma designs and expected behavior.
+- Implement and maintain React/TypeScript microfrontends and contribute to the team's shared component library.
+- Develop and maintain REST APIs and TypeScript/NestJS services connected to MySQL for user-status information.
+- Integrate user events from frontend and backend with Mixpanel for product analytics.
+- Configure and maintain CI/CD pipelines for microfrontends and microservices, and troubleshoot Docker containers.
 
-#### Backend
-<a href="https://nodejs.org/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-<a href="https://nestjs.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"></a>
-<a href="https://expressjs.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
+### Full Stack Developer · Futit Services
+January 2020 — September 2021
 
-#### Database
-<a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
+- Integrated Jira with the ERP to synchronize tasks, statuses and worklogs used by the management team.
+- Integrated Scaleway with Openbravo/Etendo so server creation could be managed from the ERP.
+- Developed frontend functionality for Openbravo WebPOS and worked on e-commerce interfaces and user flows.
+- Managed databases and provided direct client support for business application workflows.
 
-#### DevOps
-<a href="https://www.docker.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+## Skills used professionally
 
-#### Tools
-<a href="https://vitejs.dev/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a>
+- **Frontend:** JavaScript, TypeScript, React, Redux, AngularJS modernization, microfrontends, shared component libraries.
+- **Backend & data:** Node.js, NestJS, REST APIs, MySQL, PostgreSQL.
+- **Delivery & integrations:** Docker, CI/CD, Mixpanel, Jira, Openbravo/Etendo, Scaleway.
 
-### Featured Projects
+**Applied in personal projects:** Astro, Firestore, Supabase, SQLite/WebAssembly, Web Workers, Web Crypto, Vitest, React Testing Library, Playwright and GitHub Actions. The projects below provide source code and implementation details; these are separate from my professional stack.
 
-#### [Nout](https://nout.it)
-Offline-first note-taking app with rich text editing, folder organization, favorites, trash recovery, and optional Firebase sync.
-- **Tech**: React, TypeScript, Firebase
-- **Features**: Rich text editing, folder organization, offline-first architecture
+## Selected engineering projects
 
-#### [What Day Is Next](https://github.com/paablobs/what-day-is-next)
-Minimal web app that calculates the next day of the week with a playful tone, simple flow, and a polished dark UI.
-- **Tech**: React, TypeScript
-- **Features**: Clean UI, responsive design, dark mode
+### [Nout](https://github.com/paablobs/Nout) — offline-first notes
 
-#### [Sabotetris](https://github.com/paablobs/sabotetris)
-A competitive Tetris variant with sabotage mechanics -- send garbage lines to opponents and survive the chaos.
-- **Tech**: Game Development
-- **Features**: Multiplayer mechanics, competitive gameplay
+Take rich-text notes without an account, with optional Firestore synchronization after signing in.
 
-### Professional Experience
+- **Implementation:** repository adapters for localStorage and Firestore; migration of local notes and folders on sign-in; timestamp-based reconciliation and batched writes.
+- **Verification in the repository:** Vitest data-layer tests, Firebase emulator permission/repository tests and Playwright offline-only browser workflows. CI is configured to run lint, format, build and test suites.
+- **Tradeoff:** local-first access adds migration and sync complexity. Timestamp-based reconciliation is not collaborative text merging or a guarantee against every network failure.
 
-**Full Stack Developer** @ We Are Psh (Sept 2021 - Present)
-- Implemented microfrontends and component library within the team
-- Complete redesign of different web pages with AngularJS to React/Redux migration
-- Configured and maintained CI/CD pipelines for multiple microservices and microfrontends
-- Development and maintenance of RESTful APIs
+[Live app](https://nout.it) · [Case study](https://paablobs.github.io/web-portfolio/en/projects/nout/)
 
-**Full Stack Developer** @ Futit Services (Jan 2020 - Sept 2021)
-- Jira integration with ERP for task synchronization and worklog management
-- Scaleway integration with Openbravo for server management from ERP
-- Frontend development for Openbravo WebPOS (E-Commerce)
+### [Nimvo](https://github.com/paablobs/nimvo) — local-first personal finances
 
-### Current Focus
+Track monthly income and expenses in a password-protected `.nimvo` file, without accounts or a remote database.
 
-- Improving AI integration in daily development workflows
-- Building scalable frontend architectures with microfrontends
-- Exploring new technologies and frontend architecture patterns
-- Constantly learning to bring better solutions to the table
+- **Implementation:** SQLite/WebAssembly inside a Web Worker, typed operations, domain repositories and versioned migrations. Amounts use integer cents; file exports use Web Crypto (AES-256-GCM and PBKDF2).
+- **Verification in the repository:** unit/component tests for calculations, persistence and encrypted containers; Playwright flows for Chromium and Firefox, file handling, keyboard navigation and basic accessibility checks.
+- **Tradeoff:** users control saving and backups. No built-in sync or password recovery; a loaded tab works without a network connection, but reloading still requires the host. Automated tests are not an independent security audit.
+
+[Live app](https://paablobs.github.io/nimvo/) · [Case study](https://paablobs.github.io/web-portfolio/en/projects/nimvo/)
+
+### [Sabotetris](https://github.com/paablobs/sabotetris) — chaos effects & global rankings
+
+A Tetris-style game with escalating chaos effects, softcore/hardcore modes, and separate local and global rankings.
+
+- **Implementation:** React and Excalibur.js/TypeScript, with Supabase anonymous auth, Edge Functions and PostgreSQL for online runs and leaderboards.
+- **Verification in the repository:** ranking regression tests, storage/offline failure cases, PostgreSQL tests and Edge Function type checks. Submission validation, request limits and idempotency reduce abuse and duplicates.
+- **Tradeoff:** scores are client-calculated, so the leaderboard is not authoritative or cheat-proof. Online runs must be prepared before gameplay; this is not opponent-to-opponent multiplayer.
+
+[Live app](https://paablobs.github.io/sabotetris/) · [Case study](https://paablobs.github.io/web-portfolio/en/projects/sabotetris/)
+
+### [Web Portfolio](https://github.com/paablobs/web-portfolio) — bilingual, statically rendered
+
+Astro renders React sections to HTML without client-side React hydration. English/Spanish routes include localized metadata and equivalent-page language links. Vitest and generated-HTML checks cover navigation, links, case studies and sitemap output.
+
+[Live site](https://paablobs.github.io/web-portfolio/) · [Case study](https://paablobs.github.io/web-portfolio/en/projects/web-portfolio/)
+
+Additional UI project: [What Day Is Next?](https://github.com/paablobs/whatdayisnext).
+
+## What I bring to a team
+
+- Experience connecting UI changes with backend services and existing business workflows.
+- Frontend modernization and shared-component work, not just isolated screens.
+- Personal projects with documented technical decisions, automated checks and explicit limitations.
+
+For a role involving React/TypeScript interfaces, backend services or end-to-end features, [let's talk](mailto:pablo.bessone@outlook.com).
