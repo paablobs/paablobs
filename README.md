@@ -6,7 +6,7 @@
 
 [Portfolio & case studies](https://paablobs.github.io/web-portfolio/en/) · [Portfolio en español](https://paablobs.github.io/web-portfolio/es/) · [LinkedIn](https://www.linkedin.com/in/pablobessone/) · [Email](mailto:pablo.bessone@outlook.com)
 
-I'm open to **full stack, frontend and backend roles**. My experience combines AngularJS modernization, React/TypeScript microfrontends and shared components with NestJS services, REST APIs, SQL and ERP integrations.
+I'm open to **full stack, frontend and backend roles**. My experience combines AngularJS modernization, React/TypeScript microfrontends and shared components with NestJS services, REST APIs, SQL and ERP integrations. I've also delivered a production AI chatbot within an existing educational platform.
 
 ## Professional experience
 
@@ -14,6 +14,8 @@ I'm open to **full stack, frontend and backend roles**. My experience combines A
 September 2021 — Present
 
 - Redesign application screens and migrate AngularJS functionality to React and Redux, collaborating with UI/UX on Figma designs and expected behavior.
+- Delivered an end-to-end production chatbot within an existing AI-powered educational platform, implementing the chat interface, backend endpoints, model integration, conversation history and streaming.
+- Implemented Markdown-defined behavioral guardrails and PII anonymization for student and teacher data. Validated behavior through automated evaluations, adversarial scenarios, manual reviews and feedback, covering inappropriate responses, prompt injection and sensitive-information disclosure.
 - Implement and maintain React/TypeScript microfrontends and contribute to the team's shared component library.
 - Develop and maintain REST APIs and TypeScript/NestJS services connected to MySQL for user-status information.
 - Integrate user events from frontend and backend with Mixpanel for product analytics.
@@ -32,6 +34,7 @@ January 2020 — September 2021
 - **Frontend:** JavaScript, TypeScript, React, Redux, AngularJS modernization, microfrontends, shared component libraries.
 - **Backend & data:** Node.js, NestJS, REST APIs, MySQL, PostgreSQL.
 - **Delivery & integrations:** Docker, CI/CD, Mixpanel, Jira, Openbravo/Etendo, Scaleway.
+- **Applied AI:** AI / LLM integration, guardrails, PII anonymization, LLM evaluations.
 
 **Applied in personal projects:** Astro, Firestore, Supabase, SQLite/WebAssembly, Web Workers, Web Crypto, Vitest, React Testing Library, Playwright and GitHub Actions. The projects below provide source code and implementation details; these are separate from my professional stack.
 
